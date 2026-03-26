@@ -13,7 +13,9 @@ int countSetBits(int a,int b){
     return count;
 }
 int main(){
-    int a,b;
-    cin>>a>>b;
-    cout<<countSetBits(a,b);
+    // int a,b;
+    // cin>>a>>b;
+    // cout<<countSetBits(a,b);
+    int arr[10];
+    cout<<arr[1];
 }
