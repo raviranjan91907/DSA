@@ -80,9 +80,9 @@ int main(){
 //find the sum of the arr
     sumArray(arr,n);
 
-    
+
 //Swap the alternative number of the array
     swapAlternative(arr,n);
 
-
+//
 }

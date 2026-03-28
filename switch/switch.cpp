@@ -86,6 +86,5 @@ int main(){
     int amount;
     cin>>amount;
     splitamountintoCion(amount);
-
-
+    
 }
